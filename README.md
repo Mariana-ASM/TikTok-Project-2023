@@ -1,6 +1,6 @@
 # Projeto "Clone TikTok" mentorado pela EBAC
 
-Projeto finalizado: [Click aqui] (https://clonetiktok-projeto2023.web.app/)).
+Projeto finalizado: (https://clonetiktok-projeto2023.web.app/)).
 
 ## Available Scripts
 
