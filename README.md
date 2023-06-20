@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Projeto "Clone TikTok" mentorado pela EBAC
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto finalizado: [Click aqui] (https://clonetiktok-projeto2023.web.app/)).
 
 ## Available Scripts
 
